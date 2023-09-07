@@ -1,0 +1,28 @@
+.heading {
+  color: #00e7ff;
+  font-size: 42px;
+}
+.table-container {
+  color: #ffffff;
+  border: 2px solid #00e7ff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.heading-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #092e33;
+  padding-left: 50px;
+  padding-right: 20px;
+}
+.currency-group {
+  display: flex;
+}
+.item {
+  margin-left: 100px;
+}
+.list-container {
+  display: flex;
+  flex-direction: column;
+}

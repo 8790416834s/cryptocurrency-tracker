@@ -1,0 +1,22 @@
+.list-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 35px;
+  width: 35px;
+}
+.name-container {
+  display: flex;
+}
+.name {
+  margin-left: 20px;
+}
+.value-container {
+  display: flex;
+}
+.euro {
+  margin-left: 50px;
+  margin-right: 20px;
+}
